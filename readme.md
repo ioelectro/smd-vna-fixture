@@ -24,4 +24,4 @@ Measurement accuracy depends on VNA calibration quality and fixture construction
 
 Contributions, improvements, and feedback are always welcome.
 
-<img width="2557" height="2339" alt="PCB1" src="https://github.com/user-attachments/assets/bbe2fc3c-c1fb-4607-9455-e03a6ff32a33" />
+<img  alt="PCB" src="./Project Outputs for PCB_Project/PCB 3D Print/PCB1.jpg" />
