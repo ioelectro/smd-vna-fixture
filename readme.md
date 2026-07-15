@@ -22,6 +22,4 @@ For best accuracy, perform VNA calibration at the fixture reference plane.
 Use high-quality SMA connectors and short RF paths.
 Measurement accuracy depends on VNA calibration quality and fixture construction.
 
-Contributions, improvements, and feedback are always welcome.
-
 <img  alt="PCB" src="./Project Outputs for PCB_Project/PCB 3D Print/PCB1.jpg" />
